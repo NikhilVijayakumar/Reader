@@ -12,7 +12,7 @@ local_pdf_filename = "pdf/Stock_4_4_2021.pdf"
 # pages = [1]
 # pageNumber = len(list(extract_pages(local_pdf_filename)))
 # print(pageNumber)
-extracted_text = ""
+
 
 f = open('data.json', )
 json = json.load(f)
@@ -23,6 +23,7 @@ for data in json['stock_trading']:
     name = "mp3/" + data['name'] + ".mp3"
     start = (int)(data['start'])
     end = (int)(data['end'])
+    extracted_text = ""
     for page in range(start, end):
         pages = [page]
         extracted_text += high_level.extract_text(local_pdf_filename, "", pages)
