@@ -1,0 +1,154 @@
+{
+  "stock_trading": [
+    {
+      "name": "1. What is a Stock",
+      "start": "6",
+      "end": "8"
+    },
+    {
+      "name": "2. Market",
+      "start": "8",
+      "end": "13"
+    },
+    {
+      "name": "3. Stock Exchange",
+      "start": "13",
+      "end": "16"
+    },
+    {
+      "name": "4. History",
+      "start": "16",
+      "end": "20"
+    },
+    {
+      "name": "5. How do you buy a stock",
+      "start": "20",
+      "end": "24"
+    },
+    {
+      "name": "6. Different order types",
+      "start": "24",
+      "end": "26"
+    },
+    {
+      "name": "7. Different Players",
+      "start": "26",
+      "end": "27"
+    },
+    {
+      "name": "8. Ways of making money in the Stock Market",
+      "start": "27",
+      "end": "28"
+    },
+    {
+      "name": "9. Trading Skills & Essentials",
+      "start": "28",
+      "end": "38"
+    },
+    {
+      "name": "10. Trends",
+      "start": "38",
+      "end": "42"
+    },
+    {
+      "name": "11. Trendlines",
+      "start": "42",
+      "end": "43"
+    },
+    {
+      "name": "12. Channels",
+      "start": "43",
+      "end": "48"
+    },
+    {
+      "name": "13. Trend Lengths",
+      "start": "48",
+      "end": "49"
+    },
+    {
+      "name": "14. Support And Resistance",
+      "start": "49",
+      "end": "53"
+    },
+    {
+      "name": "15. Chart Patterns",
+      "start": "53",
+      "end": "75"
+    },
+    {
+      "name": "16. Volume",
+      "start": "75",
+      "end": "76"
+    },
+    {
+      "name": "17. Indicators",
+      "start": "76",
+      "end": "89"
+    },
+    {
+      "name": "18. Expectancy",
+      "start": "89",
+      "end": "90"
+    },
+    {
+      "name": "19. Gambling vs Educated Betting",
+      "start": "90",
+      "end": "91"
+    },
+    {
+      "name": "20. Batting Average WinLoss Ratio",
+      "start": "91",
+      "end": "92"
+    },
+    {
+      "name": "21. Risk Management",
+      "start": "92",
+      "end": "93"
+    },
+    {
+      "name": "22. Risk mitigation",
+      "start": "93",
+      "end": "94"
+    },
+    {
+      "name": "23. Money Management",
+      "start": "94",
+      "end": "95"
+    },
+    {
+      "name": "24. Psychology",
+      "start": "95",
+      "end": "96"
+    },
+    {
+      "name": "25. Valuation methods",
+      "start": "96",
+      "end": "97"
+    },
+    {
+      "name": "26. Fundamental Analysis",
+      "start": "97",
+      "end": "104"
+    },
+    {
+      "name": "27. Technical Analysis",
+      "start": "104",
+      "end": "118"
+    },
+    {
+      "name": "28. Strategy Types",
+      "start": "118",
+      "end": "119"
+    },
+    {
+      "name": "29. GamePlan",
+      "start": "119",
+      "end": "120"
+    },
+    {
+      "name": "30. Trading Strategy",
+      "start": "120",
+      "end": "121"
+    }
+  ]
+}
