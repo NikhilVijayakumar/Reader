@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///C:/Workspace/Python/Reader/mp3/1.%20What%20is%20a%20Stock.mp3</location>
+			<duration>37697</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Workspace/Python/Reader/mp3/2.%20Market.mp3</location>
+			<duration>104097</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Workspace/Python/Reader/mp3/3.%20Stock%20Exchange.mp3</location>
+			<duration>57214</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Workspace/Python/Reader/mp3/4.%20History.mp3</location>
+			<duration>100232</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Workspace/Python/Reader/mp3/5.%20How%20do%20you%20buy%20a%20stock.mp3</location>
+			<duration>406430</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Workspace/Python/Reader/mp3/6.%20Different%20order%20types.mp3</location>
+			<duration>269838</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Workspace/Python/Reader/mp3/7.%20Different%20Players.mp3</location>
+			<duration>13567</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Workspace/Python/Reader/mp3/8.%20Ways%20of%20making%20money%20in%20the%20Stock%20Market.mp3</location>
+			<duration>33019</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Workspace/Python/Reader/mp3/9.%20Trading%20Skills%20%26%20Essentials.mp3</location>
+			<duration>972915</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Workspace/Python/Reader/mp3/10.%20Trends.mp3</location>
+			<duration>251555</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Workspace/Python/Reader/mp3/11.%20Trendlines.mp3</location>
+			<duration>61573</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Workspace/Python/Reader/mp3/12.%20Channels.mp3</location>
+			<duration>211256</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Workspace/Python/Reader/mp3/13.%20Trend%20Lengths.mp3</location>
+			<duration>64808</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Workspace/Python/Reader/mp3/14.%20Support%20And%20Resistance.mp3</location>
+			<duration>194229</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Workspace/Python/Reader/mp3/15.%20Chart%20Patterns.mp3</location>
+			<duration>1157753</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Workspace/Python/Reader/mp3/16.%20Volume.mp3</location>
+			<duration>38217</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Workspace/Python/Reader/mp3/17.%20Indicators.mp3</location>
+			<duration>775989</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Workspace/Python/Reader/mp3/18.%20Expectancy.mp3</location>
+			<duration>83705</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Workspace/Python/Reader/mp3/19.%20Gambling%20vs%20Educated%20Betting.mp3</location>
+			<duration>31439</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Workspace/Python/Reader/mp3/20.%20Batting%20Average%20WinLoss%20Ratio.mp3</location>
+			<duration>24250</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Workspace/Python/Reader/mp3/21.%20Risk%20Management.mp3</location>
+			<duration>116468</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Workspace/Python/Reader/mp3/22.%20Risk%20mitigation.mp3</location>
+			<duration>60959</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Workspace/Python/Reader/mp3/23.%20Money%20Management.mp3</location>
+			<duration>44386</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Workspace/Python/Reader/mp3/24.%20Psychology.mp3</location>
+			<duration>142469</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Workspace/Python/Reader/mp3/25.%20Valuation%20methods.mp3</location>
+			<duration>52841</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Workspace/Python/Reader/mp3/26.%20Fundamental%20Analysis.mp3</location>
+			<duration>895479</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Workspace/Python/Reader/mp3/27.%20Technical%20Analysis.mp3</location>
+			<duration>661265</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Workspace/Python/Reader/mp3/28.%20Strategy%20Types.mp3</location>
+			<duration>23015</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Workspace/Python/Reader/mp3/29.%20GamePlan.mp3</location>
+			<duration>90782</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Workspace/Python/Reader/mp3/30.%20Trading%20Strategy.mp3</location>
+			<duration>168005</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+	</extension>
+</playlist>
